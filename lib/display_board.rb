@@ -1,7 +1,8 @@
 # Define a method display_board that prints a 3x3 Tic Tac Toe Board
+cell = [" "," "," "]
 def display_board
- puts "3x3 Tic Tac Tow Board"
+ puts "3x3 Tic Tac Tow Board #{cell}"
  end
  
- cell = [" "," "," "]
-puts "3x3 Tic Tac Tow Board\n"
+ 
+
