@@ -4,6 +4,4 @@ def display_board
  end
  
  cell = [" ", " ", " "]
- row = #{cell} " | " #{cell} " | " #{cell}
- puts 3.cell
-end
+
