@@ -2,7 +2,7 @@
 
 def display_board
   cell = [" "," "," "]
- puts "3x3 Tic Tac Tow Board #{cell}"
+ puts "3x3 Tic Tac Tow Board {\ "
  end
  
  
