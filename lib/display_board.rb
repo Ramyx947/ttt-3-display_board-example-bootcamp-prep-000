@@ -4,4 +4,4 @@ def display_board
  end
  
  cell = [" "," "," "]
-puts display_board = cell
+puts "3x3 Tic Tac Tow Board\n"
