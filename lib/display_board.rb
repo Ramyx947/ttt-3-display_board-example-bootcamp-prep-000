@@ -3,5 +3,5 @@ def display_board
  puts "3x3 Tic Tac Tow Board"
  end
  
- cell = [" ", " ", " "]
+ cell = (" ", " ", " ")
 
